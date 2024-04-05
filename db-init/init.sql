@@ -1,0 +1,1 @@
+create table if not exists my_table (id int, name varchar);
